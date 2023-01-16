@@ -31,13 +31,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="VS Code" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="VS Code" width="70" height="50"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://git-scm.com/images/logo@2x.png" title="GIT" alt="GIt" width="90" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/labs/thumb/a/ae/Gitlab-logo.svg.svg/2560px-Gitlab-logo.svg.svg.png" title="GitLab" alt="GitLab" width="90" height="40"/>&nbsp;
-  <img src="https://logolook.net/wp-content/uploads/2022/12/GitHub-Logo.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-</div>
-  <video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/microsoft-sql-server-backup-5224407-4383423.mp4"></video>
+  <img src="https://mpng.subpng.com/20180615/kff/kisspng-computer-icons-github-logo-github-5b23f7d7474c14.790619341529083863292.jpg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://about.gitlab.com/images/icons/ci-cd-logo.svg" title="CI/CD" alt="CI/CD" width="60" height="45"/>&nbsp;
+    </div>
   
   ### :fire: My Stats : 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Justalegend1&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
