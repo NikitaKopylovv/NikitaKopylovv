@@ -9,7 +9,7 @@
     <a href="https://t.me/Either_with_him_son_or_on_him">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
          </a>    
-<a href="mailto:copilovnikita@gmail.com"><img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logoColor=white" alt="Telegram Badge"/></a>
+<a href="mailto:copilow.nikita.job@yandex.ru"><img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logoColor=white" alt="Telegram Badge"/></a>
 </div>
    
 <img src="https://komarev.com/ghpvc/?username=Justalegend1&style=flat-square&color=blue" alt=""/>
