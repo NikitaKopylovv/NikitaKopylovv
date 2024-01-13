@@ -17,11 +17,11 @@
  Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-- :telescope: I'm a frontend developer of react and javascript based web applications and I'm seasoning a bit vue.js
-
-- :seedling: As you have already understood, I am currently studying react and vue, also studying java for mobile dev
+- :telescope: I am a frontend developer on the React + typescript stack using Webpack. I actively use BlueprintJS in development
 
 - :zap: In my free time I like to play sports and play chess
+
+- :man_student: At the moment I am a 4th year student of the Higher School of Economics in Perm in the specialty software engineering
 
 - :mailbox: Link to contact me above
   ### :hammer_and_wrench: Languages and Tools : <div>
@@ -38,6 +38,3 @@
   <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://git-scm.com/images/logo@2x.png" title="GIT" alt="GIt" width="90" height="40"/>&nbsp;
     </div>
-  
-  ### :fire: My Stats : 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Justalegend1&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
