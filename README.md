@@ -17,13 +17,13 @@
  Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-- :telescope: I am a frontend developer on the React + typescript stack using Webpack. I actively use BlueprintJS in development
+:telescope: I am a frontend developer on the React + typescript stack using Webpack. I actively use BlueprintJS in development
 
-- :zap: In my free time I like to play sports and play chess
+:zap: In my free time I like to play sports and play chess
 
-- :man_student: At the moment I am a 4th year student of the Higher School of Economics in Perm in the specialty software engineering
+:man_student: At the moment I am a 4th year student of the Higher School of Economics in Perm in the specialty software engineering
 
-- :mailbox: Link to contact me above
+:mailbox: Link to contact me above
   ### :hammer_and_wrench: Languages and Tools : <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
