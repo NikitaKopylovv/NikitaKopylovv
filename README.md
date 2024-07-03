@@ -21,7 +21,7 @@
 
 :zap: In my free time I like to play sports and play chess
 
-:man_student: At the moment I am a 4th year student of the Higher School of Economics in Perm in the specialty software engineering
+:man_student: Graduated from the Higher School of Economics in the field of software engineering
 
 :mailbox: Link to contact me above
   ### :hammer_and_wrench: Languages and Tools : <div>
