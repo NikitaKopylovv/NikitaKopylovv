@@ -17,7 +17,7 @@
  Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-:telescope: I am a frontend developer on the React + typescript stack using Webpack. I actively use BlueprintJS in development
+:telescope: I am a frontend developer in the React + typescript stack using Webpack. I actively use Blueprints in development. I also know Vue.js is in conjunction with the Vite and I continue to actively study it
 
 :zap: In my free time I like to play sports and play chess
 
